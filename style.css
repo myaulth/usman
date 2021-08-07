@@ -21,7 +21,7 @@ body
 }
 .logo:hover
 {
-    content: url('hover.png');
+    content: url('logo-hover.png');
 }
 nav
 {
